@@ -4,6 +4,8 @@ date: 2017-06-04 23:05:09
 tags: [Hexo ,next]
 categories: 教程
 ---
+
+
 # Hexo-next主题的背景动态效果
 
 
